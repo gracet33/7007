@@ -1,0 +1,460 @@
+_id,ratings.overall,offeringDetails[0].hotel_class,offeringDetails[0].name
+65ac467f7672c3f8efe19282,5,4,Andaz 5th Avenue
+65ac467f7672c3f8efe19635,5,4.5,The Sherry-Netherland Hotel
+65ac467f7672c3f8efe19703,4,4.5,The Sherry-Netherland Hotel
+65ac467f7672c3f8efe19764,5,4,The Iroquois
+65ac467f7672c3f8efe1993e,5,5,The Chatwal
+65ac467f7672c3f8efe19a12,2,5,"The Setai Fifth Avenue, a Capella managed Hotel"
+65ac467f7672c3f8efe19a84,5,3,Hotel Beacon
+65ac467f7672c3f8efe19e11,4,4,Eventi - a Kimpton Hotel
+65ac467f7672c3f8efe1a027,5,5,"The Setai Fifth Avenue, a Capella managed Hotel"
+65ac467f7672c3f8efe1a478,4,5,"The Setai Fifth Avenue, a Capella managed Hotel"
+65ac467f7672c3f8efe1a636,4,4,Andaz 5th Avenue
+65ac467f7672c3f8efe1a8da,5,4,Andaz 5th Avenue
+65ac467f7672c3f8efe1ab69,5,4,The Iroquois
+65ac46807672c3f8efe1b557,5,4,Andaz 5th Avenue
+65ac46817672c3f8efe1de7a,5,,The NoMad Hotel
+65ac46817672c3f8efe1e589,5,4.5,Sofitel New York
+65ac46817672c3f8efe1e5af,5,5,"The Ritz-Carlton New York, Central Park"
+65ac46817672c3f8efe1e67e,4,3.5,Affinia Gardens
+65ac46817672c3f8efe1e794,4,4.5,InterContinental New York Times Square
+65ac46817672c3f8efe1e7e3,4,4,Fitzpatrick Manhattan
+65ac46817672c3f8efe1e8af,5,5,"The Ritz-Carlton New York, Central Park"
+65ac46817672c3f8efe1eb13,3,,Hotel Mulberry
+65ac46817672c3f8efe1eb40,5,4.5,Sofitel New York
+65ac46817672c3f8efe1eeb5,1,3,Candlewood Suites New York City Times Square
+65ac46817672c3f8efe1eed0,2,3,Candlewood Suites New York City Times Square
+65ac46817672c3f8efe1f050,5,3,Residence Inn by Marriott Times Square New York
+65ac46817672c3f8efe1f199,3,3,Hampton Inn Madison Square Garden
+65ac46817672c3f8efe1f2ec,4,4.5,InterContinental New York Times Square
+65ac46817672c3f8efe1f453,5,5,Gansevoort Park Avenue NYC
+65ac46817672c3f8efe1f53a,4,3,Candlewood Suites New York City Times Square
+65ac46817672c3f8efe1fa01,5,3,Hotel 373
+65ac46827672c3f8efe1ff6a,4,4,The Marcel at Gramercy
+65ac46827672c3f8efe20073,3,4,The Manhattan Club
+65ac46827672c3f8efe200e5,4,3.5,Manhattan Centre Hotel
+65ac46827672c3f8efe200e9,3,3.5,Excelsior Hotel
+65ac46827672c3f8efe2023f,4,3.5,Manhattan Centre Hotel
+65ac46827672c3f8efe202bd,4,3.5,Manhattan Centre Hotel
+65ac46827672c3f8efe20426,3,4,The Marcel at Gramercy
+65ac46827672c3f8efe20b47,4,3.5,Club Quarters Wall Street
+65ac46827672c3f8efe20e36,1,3.5,Club Quarters Wall Street
+65ac46827672c3f8efe210e6,3,2.5,Washington Square Hotel
+65ac46827672c3f8efe213bc,4,3,Hotel East Houston
+65ac46827672c3f8efe216f4,4,2.5,Park 79 Hotel
+65ac46827672c3f8efe2178f,3,2,Americana Inn
+65ac46827672c3f8efe2190b,3,4,The Roosevelt Hotel
+65ac46827672c3f8efe21a6e,4,2.5,Park 79 Hotel
+65ac46827672c3f8efe21adb,1,3,Skyline Hotel
+65ac46827672c3f8efe21b09,4,2.5,Park 79 Hotel
+65ac46827672c3f8efe21c48,4,2.5,Park 79 Hotel
+65ac46827672c3f8efe21d19,1,2.5,Wolcott Hotel
+65ac46827672c3f8efe21d59,3,3,Skyline Hotel
+65ac46827672c3f8efe21d61,3,4,W New York
+65ac46827672c3f8efe21e13,3,3.5,Holiday Inn NYC - Manhattan 6th Avenue
+65ac46837672c3f8efe21f29,4,3,"The GEM Hotel-SoHo, an Ascend Collection hotel"
+65ac46837672c3f8efe21fa8,4,2,Americana Inn
+65ac46837672c3f8efe22121,3,3,Skyline Hotel
+65ac46837672c3f8efe22407,3,4,The Roosevelt Hotel
+65ac46837672c3f8efe22600,3,3,Skyline Hotel
+65ac46837672c3f8efe2272a,5,2.5,Park 79 Hotel
+65ac46837672c3f8efe227ee,5,2,Americana Inn
+65ac46837672c3f8efe22b51,4,2,BEST WESTERN Convention Center Hotel
+65ac46837672c3f8efe22e6b,4,3,Holiday Inn Midtown / 57th St
+65ac46837672c3f8efe230d0,4,4,The Roosevelt Hotel
+65ac46837672c3f8efe231ec,5,3.5,the Lexington
+65ac46837672c3f8efe233e7,2,2,Sun Bright Hotel
+65ac46837672c3f8efe2344b,1,,Tone on Lex
+65ac46837672c3f8efe236b8,1,2.5,Hotel St. James
+65ac46837672c3f8efe236fa,4,3.5,the Lexington
+65ac46837672c3f8efe2378b,4,1,The Amsterdam Inn
+65ac46837672c3f8efe237f2,5,4,W New York
+65ac46837672c3f8efe239e3,1,2.5,Hotel Pennsylvania New York
+65ac46837672c3f8efe2445b,1,,Morningside Inn
+65ac46837672c3f8efe2454d,3,4,W New York
+65ac46847672c3f8efe2475c,4,,St. Marks Hotel
+65ac46847672c3f8efe24c9a,5,4,W New York
+65ac46847672c3f8efe25436,4,3.5,Best Western PLUS President Hotel at Times Square
+65ac46847672c3f8efe25549,4,2.5,Marrakech Hotel on Broadway
+65ac46847672c3f8efe25c4a,3,3.5,Best Western PLUS President Hotel at Times Square
+65ac46847672c3f8efe25d02,3,4,W New York
+65ac46847672c3f8efe25e2c,3,2,Days Inn Hotel New York City - Broadway
+65ac46847672c3f8efe26097,1,1.5,Hotel Carter
+65ac46847672c3f8efe264d8,4,2,Days Inn Hotel New York City - Broadway
+65ac46847672c3f8efe26587,3,4,Paramount Hotel Times Square New York
+65ac46847672c3f8efe26b14,3,4,The Roosevelt Hotel
+65ac46857672c3f8efe26d9b,4,4,W New York
+65ac46857672c3f8efe2740e,4,3.5,Best Western PLUS President Hotel at Times Square
+65ac46857672c3f8efe27a96,4,,NY Oyado
+65ac46857672c3f8efe28040,4,2,Comfort Inn Convention Center
+65ac46857672c3f8efe28065,1,2,Comfort Inn Convention Center
+65ac46857672c3f8efe2833d,1,4,W New York
+65ac46857672c3f8efe28624,3,4,W New York
+65ac46857672c3f8efe28c91,4,3,Milford Plaza Hotel
+65ac46867672c3f8efe290a8,2,2.5,Belnord Hotel
+65ac46867672c3f8efe29299,2,2,Chelsea Star Hotel
+65ac46867672c3f8efe2966d,5,,The Helmsley Carlton House
+65ac46867672c3f8efe29671,4,2.5,Hotel Azure
+65ac46867672c3f8efe296f0,5,2.5,Hotel Azure
+65ac46867672c3f8efe296fa,4,,Broadway Hotel and Hostel
+65ac46867672c3f8efe29aaa,4,4,The Roosevelt Hotel
+65ac46867672c3f8efe29f4a,4,3.5,Holiday Inn SoHo New York
+65ac46867672c3f8efe2a013,5,3,Bedford Hotel
+65ac46867672c3f8efe2a0ef,4,3.5,Courtyard by Marriott New York Manhattan / Upper East Side
+65ac46867672c3f8efe2a27a,2,4,Park Central
+65ac46867672c3f8efe2a400,3,3.5,Holiday Inn SoHo New York
+65ac46867672c3f8efe2a587,2,4,Park Central
+65ac46867672c3f8efe2a72e,4,3.5,The Manhattan at Times Square Hotel
+65ac46867672c3f8efe2a750,4,4,Empire Hotel
+65ac46867672c3f8efe2a9d5,4,4,Hudson New York
+65ac46867672c3f8efe2aa97,3,3.5,Holiday Inn SoHo New York
+65ac46867672c3f8efe2afa2,4,3,Bedford Hotel
+65ac46867672c3f8efe2b078,3,4,Empire Hotel
+65ac46867672c3f8efe2b6b0,3,4,Park Central
+65ac46877672c3f8efe2b8e2,4,3.5,The Manhattan at Times Square Hotel
+65ac46877672c3f8efe2c33e,4,2.5,Cosmopolitan Hotel - Tribeca
+65ac46877672c3f8efe2c348,3,3.5,The Manhattan at Times Square Hotel
+65ac46877672c3f8efe2c87a,5,4,Hudson New York
+65ac46877672c3f8efe2cb22,4,3.5,The Manhattan at Times Square Hotel
+65ac46877672c3f8efe2cc6b,2,4,The Time
+65ac46877672c3f8efe2cd4c,4,3.5,Hotel Belleclaire
+65ac46877672c3f8efe2ce94,3,3,Hotel Grand Union
+65ac46877672c3f8efe2d653,5,4,Dylan Hotel
+65ac46877672c3f8efe2d67a,1,4,Millennium Hotel Broadway
+65ac46877672c3f8efe2d871,3,4,Hilton Manhattan East
+65ac46877672c3f8efe2d8d3,4,4,Hilton Manhattan East
+65ac46877672c3f8efe2db53,3,4,Millennium Hotel Broadway
+65ac46877672c3f8efe2dba2,3,4,Millennium Hotel Broadway
+65ac46877672c3f8efe2dbbd,5,4,Hilton Manhattan East
+65ac46887672c3f8efe2e2c7,3,4,Hilton Manhattan East
+65ac46887672c3f8efe2e717,4,4,Stay.
+65ac46887672c3f8efe2e95f,4,4,Stay.
+65ac46887672c3f8efe2ec5e,3,4,Millennium Hotel Broadway
+65ac46887672c3f8efe2eca5,4,4,Stay.
+65ac46887672c3f8efe2ed9f,3,4,Dylan Hotel
+65ac46887672c3f8efe2f02d,4,4,Dylan Hotel
+65ac46887672c3f8efe2f779,4,,Da Vinci Hotel
+65ac46887672c3f8efe2f7e4,3,4,The Westin New York Grand Central
+65ac46887672c3f8efe2fc53,4,4,Park Central
+65ac46887672c3f8efe30246,4,4,The Mansfield
+65ac46887672c3f8efe302fe,5,4,Doubletree Hotel Metropolitan - New York City
+65ac46897672c3f8efe30617,2,2.5,Hotel Pennsylvania New York
+65ac46897672c3f8efe30768,3,4,Dream New York
+65ac46897672c3f8efe307dc,4,4,Hilton Manhattan East
+65ac46897672c3f8efe308c4,4,3,The Milburn Hotel
+65ac46897672c3f8efe30947,2,4,Doubletree Hotel Metropolitan - New York City
+65ac46897672c3f8efe30d05,3,3.5,Club Quarters Wall Street
+65ac46897672c3f8efe30ddd,4,4,Le Parker Meridien
+65ac46897672c3f8efe31363,3,4,Millennium Hotel Broadway
+65ac46897672c3f8efe313e2,4,3,La Quinta Inn Manhattan
+65ac46897672c3f8efe3163e,3,3,La Quinta Inn Manhattan
+65ac46897672c3f8efe31a76,2,,Herald Square Hotel
+65ac46897672c3f8efe31a83,3,3,Four Points by Sheraton Manhattan Chelsea
+65ac46897672c3f8efe31bc9,4,3.5,Washington Jefferson Hotel
+65ac46897672c3f8efe31d4d,4,,Herald Square Hotel
+65ac46897672c3f8efe32129,4,3.5,Washington Jefferson Hotel
+65ac46897672c3f8efe3212f,4,2.5,Travel Inn Hotel New York
+65ac46897672c3f8efe321eb,4,3,Edison Hotel Times Square
+65ac46897672c3f8efe3225a,4,3.5,Washington Jefferson Hotel
+65ac46897672c3f8efe323bb,3,,Herald Square Hotel
+65ac46897672c3f8efe323d2,4,3,Holiday Inn Express New York City Fifth Ave
+65ac46897672c3f8efe32448,4,4,Hudson New York
+65ac46897672c3f8efe3267b,4,4,Le Parker Meridien
+65ac468a7672c3f8efe32b11,4,,Herald Square Hotel
+65ac468a7672c3f8efe32b47,5,,Herald Square Hotel
+65ac468a7672c3f8efe32b4c,3,3,Holiday Inn Express New York City Fifth Ave
+65ac468a7672c3f8efe32ef6,4,3,Edison Hotel Times Square
+65ac468a7672c3f8efe32fc2,3,4,Millennium Hotel Broadway
+65ac468a7672c3f8efe32fdd,4,4,Millennium Hotel Broadway
+65ac468a7672c3f8efe33313,2,2.5,Travel Inn Hotel New York
+65ac468a7672c3f8efe33c41,1,4,Hilton New York
+65ac468a7672c3f8efe33ed5,3,4,Hilton New York
+65ac468a7672c3f8efe342af,1,4,Millennium Hotel Broadway
+65ac468a7672c3f8efe34567,4,4,Hilton New York
+65ac468a7672c3f8efe34971,1,4,Hilton New York
+65ac468a7672c3f8efe349de,4,4,Hilton New York
+65ac468a7672c3f8efe34e17,1,2.5,Travel Inn Hotel New York
+65ac468a7672c3f8efe35017,2,2,The Jane
+65ac468a7672c3f8efe35026,4,5,ONE UN New York
+65ac468b7672c3f8efe353fd,1,3,Edison Hotel Times Square
+65ac468b7672c3f8efe3542d,4,2,The Jane
+65ac468b7672c3f8efe355ac,4,2,The Jane
+65ac468b7672c3f8efe35817,4,2,The Jane
+65ac468b7672c3f8efe359d7,4,,The Hotel at Times Square
+65ac468b7672c3f8efe359e7,3,,Larchmont Hotel
+65ac468b7672c3f8efe35a9d,5,,The Hotel at Times Square
+65ac468b7672c3f8efe35b8b,2,5,ONE UN New York
+65ac468b7672c3f8efe35e24,5,4,The Helmsley Park Lane
+65ac468b7672c3f8efe35f09,3,,The Hotel at Times Square
+65ac468b7672c3f8efe360c8,5,2,The Jane
+65ac468b7672c3f8efe36198,2,3,Ramada Eastside
+65ac468b7672c3f8efe3621d,5,,The Hotel at Times Square
+65ac468b7672c3f8efe36509,5,4,Grand Hyatt New York
+65ac468b7672c3f8efe36703,1,5,ONE UN New York
+65ac468b7672c3f8efe36806,4,5,ONE UN New York
+65ac468b7672c3f8efe36979,4,4,Grand Hyatt New York
+65ac468b7672c3f8efe369b9,4,4,Doubletree Hotel Chelsea New York City
+65ac468b7672c3f8efe36b5a,4,,The Hotel at Times Square
+65ac468b7672c3f8efe36bf8,3,4,Sheraton Tribeca New York Hotel
+65ac468b7672c3f8efe36bfe,5,3,Hotel Newton
+65ac468b7672c3f8efe37640,5,4,Sheraton Tribeca New York Hotel
+65ac468b7672c3f8efe3770b,4,3,Hotel Newton
+65ac468b7672c3f8efe3777f,4,4.5,W New York - Downtown
+65ac468b7672c3f8efe3784b,3,,The Hotel at Times Square
+65ac468b7672c3f8efe37966,4,4,Sheraton Tribeca New York Hotel
+65ac468b7672c3f8efe3796b,5,3.5,Courtyard New York Manhattan/Fifth Avenue
+65ac468c7672c3f8efe37b0d,3,4.5,W New York - Downtown
+65ac468c7672c3f8efe37b38,1,4,Grand Hyatt New York
+65ac468c7672c3f8efe37bc1,1,4,Grand Hyatt New York
+65ac468c7672c3f8efe37bce,5,3,Hotel Newton
+65ac468c7672c3f8efe37cbf,5,2,Hotel 17
+65ac468c7672c3f8efe37dd0,4,5,ONE UN New York
+65ac468c7672c3f8efe38117,4,3,Murray Hill East Suites
+65ac468c7672c3f8efe38749,1,4,Sheraton Tribeca New York Hotel
+65ac468c7672c3f8efe3885f,1,4,Hilton New York
+65ac468c7672c3f8efe38896,3,3.5,Four Points by Sheraton Midtown - Times Square
+65ac468c7672c3f8efe39044,4,2,Hotel 31
+65ac468c7672c3f8efe390f8,5,4,Grand Hyatt New York
+65ac468c7672c3f8efe39451,3,3.5,Four Points by Sheraton Midtown - Times Square
+65ac468c7672c3f8efe395f4,4,2,Hotel 31
+65ac468c7672c3f8efe3962e,3,2,Hotel 31
+65ac468c7672c3f8efe39889,4,3.5,Four Points by Sheraton Midtown - Times Square
+65ac468c7672c3f8efe39ae8,4,,Seafarers & International House
+65ac468d7672c3f8efe39e76,3,3,Fairfield Inn & Suites New York Manhattan / Fifth Avenue
+65ac468d7672c3f8efe39e8b,5,4,Grand Hyatt New York
+65ac468d7672c3f8efe39f34,4,3,Hilton Garden Inn New York - Chelsea
+65ac468d7672c3f8efe3a2bf,5,3.5,Room Mate Grace
+65ac468d7672c3f8efe3a5ad,4,3.5,"Club Quarters, opposite Rockefeller Center"
+65ac468d7672c3f8efe3ab36,4,4,Hilton New York
+65ac468d7672c3f8efe3ad60,4,4,Grand Hyatt New York
+65ac468d7672c3f8efe3af6b,3,3.5,Room Mate Grace
+65ac468d7672c3f8efe3b019,4,4,The Kimberly Hotel
+65ac468d7672c3f8efe3b076,5,3.5,Four Points by Sheraton Midtown - Times Square
+65ac468d7672c3f8efe3b212,3,3.5,Four Points by Sheraton Manhattan SoHo Village
+65ac468d7672c3f8efe3b2d7,1,,The Standard High Line
+65ac468d7672c3f8efe3b357,4,4,Grand Hyatt New York
+65ac468d7672c3f8efe3b50b,3,4,Hilton New York
+65ac468d7672c3f8efe3b6e7,3,3.5,Radisson Martinique on Broadway
+65ac468d7672c3f8efe3b9ca,3,4,Hilton New York
+65ac468d7672c3f8efe3be0c,5,3,The MAve
+65ac468d7672c3f8efe3beeb,5,3,Eastgate Tower
+65ac468d7672c3f8efe3c00b,4,3,Eastgate Tower
+65ac468d7672c3f8efe3c092,1,4,Grand Hyatt New York
+65ac468d7672c3f8efe3c0d3,4,3,The MAve
+65ac468d7672c3f8efe3c1c8,5,4,Kitano New York
+65ac468d7672c3f8efe3c28a,4,3,Pod 51
+65ac468e7672c3f8efe3c52a,3,3,Eastgate Tower
+65ac468e7672c3f8efe3c664,4,4,"Carlton Hotel, Autograph Collection"
+65ac468e7672c3f8efe3c8d6,4,4,Grand Hyatt New York
+65ac468e7672c3f8efe3c8eb,4,2,Comfort Inn Times Square West
+65ac468e7672c3f8efe3cccd,4,4,The Roger
+65ac468e7672c3f8efe3ccec,2,4,"Carlton Hotel, Autograph Collection"
+65ac468e7672c3f8efe3cdb1,3,4,Avalon Hotel
+65ac468e7672c3f8efe3cdee,4,3,Pod 51
+65ac468e7672c3f8efe3cee5,1,3.5,Radisson Martinique on Broadway
+65ac468e7672c3f8efe3d0f0,4,4.5,W New York - Union Square
+65ac468e7672c3f8efe3d100,4,3,"nyma, the New York Manhattan Hotel"
+65ac468e7672c3f8efe3d1da,4,3.5,Novotel New York Times Square
+65ac468e7672c3f8efe3d58c,3,3.5,Radisson Martinique on Broadway
+65ac468e7672c3f8efe3d6ac,3,4,Hilton New York
+65ac468e7672c3f8efe3d88c,4,3,Pod 51
+65ac468e7672c3f8efe3dab3,4,4,Hilton New York
+65ac468e7672c3f8efe3dab8,4,3,Pod 51
+65ac468e7672c3f8efe3dc85,4,4,Renaissance New York Hotel 57
+65ac468e7672c3f8efe3df93,4,3,"nyma, the New York Manhattan Hotel"
+65ac468e7672c3f8efe3e2d8,3,2,Comfort Inn Manhattan
+65ac468e7672c3f8efe3e5e0,3,4,Millenium Hilton
+65ac468e7672c3f8efe3e813,4,4,Millenium Hilton
+65ac468e7672c3f8efe3e9f0,4,4.5,Waldorf Astoria New York
+65ac468f7672c3f8efe3ec4e,4,4.5,Waldorf Astoria New York
+65ac468f7672c3f8efe3ecf9,2,4.5,Waldorf Astoria New York
+65ac468f7672c3f8efe3ee4e,2,4,Millenium Hilton
+65ac468f7672c3f8efe3ef6d,4,4,Millenium Hilton
+65ac468f7672c3f8efe3f1a9,3,2,Comfort Inn Manhattan
+65ac468f7672c3f8efe3f477,4,2,Comfort Inn Manhattan
+65ac468f7672c3f8efe3f690,4,2,Comfort Inn Manhattan
+65ac468f7672c3f8efe3f712,4,3,Pod 51
+65ac468f7672c3f8efe3f962,4,4.5,JW Marriott Essex House New York
+65ac468f7672c3f8efe3fc51,5,3,The Wall Street Inn
+65ac468f7672c3f8efe40116,4,4,"The Standard, East Village"
+65ac468f7672c3f8efe405f7,5,4,"The Standard, East Village"
+65ac468f7672c3f8efe408d0,3,4.5,Waldorf Astoria New York
+65ac46907672c3f8efe40b0d,5,4.5,Dream Downtown
+65ac46907672c3f8efe40b7a,5,4,"The Standard, East Village"
+65ac46907672c3f8efe40cc9,4,3,"nyma, the New York Manhattan Hotel"
+65ac46907672c3f8efe41225,1,3,Park South Hotel
+65ac46907672c3f8efe4156a,3,4,Hilton New York Fashion District
+65ac46907672c3f8efe41890,4,3.5,Novotel New York Times Square
+65ac46907672c3f8efe4189a,4,4,Millenium Hilton
+65ac46907672c3f8efe41c8e,3,2,Broadway at Times Square Hotel
+65ac46907672c3f8efe41d8c,4,3.5,Novotel New York Times Square
+65ac46907672c3f8efe41eba,4,3,Holiday Inn Express New York City Times Square
+65ac46907672c3f8efe41fa1,4,4,Millenium Hilton
+65ac46907672c3f8efe4222c,4,3.5,Novotel New York Times Square
+65ac46907672c3f8efe42355,3,4.5,Waldorf Astoria New York
+65ac46907672c3f8efe423d6,5,4,Club Quarters World Trade Center
+65ac46907672c3f8efe43098,4,3,Pod 51
+65ac46917672c3f8efe432ee,5,2,Broadway at Times Square Hotel
+65ac46917672c3f8efe43881,4,4,The New Yorker Hotel
+65ac46917672c3f8efe43b02,2,4.5,InterContinental New York Times Square
+65ac46917672c3f8efe43b8d,5,3,Pod 51
+65ac46917672c3f8efe43e51,4,3.5,Courtyard by Marriott New York Manhattan / Midtown East
+65ac46917672c3f8efe43fc9,3,4.5,Waldorf Astoria New York
+65ac46917672c3f8efe44022,3,4.5,Sofitel New York
+65ac46917672c3f8efe44090,5,4.5,Sofitel New York
+65ac46917672c3f8efe440a4,3,4.5,InterContinental New York Times Square
+65ac46917672c3f8efe440ce,4,4,Affinia 50
+65ac46917672c3f8efe44199,4,3.5,The Belvedere
+65ac46917672c3f8efe44253,4,4,InterContinental New York Barclay
+65ac46917672c3f8efe44736,4,3,Pod 51
+65ac46917672c3f8efe4495b,1,3,Pod 51
+65ac46917672c3f8efe449ff,4,4.5,InterContinental New York Times Square
+65ac46917672c3f8efe44e59,5,4.5,Sofitel New York
+65ac46917672c3f8efe44fa3,3,4,InterContinental New York Barclay
+65ac46917672c3f8efe45643,4,3,Residence Inn by Marriott Times Square New York
+65ac46927672c3f8efe45c9a,3,3,Residence Inn by Marriott Times Square New York
+65ac46927672c3f8efe45d3f,5,3,Pod 51
+65ac46927672c3f8efe45f1f,5,3,Pod 51
+65ac46927672c3f8efe462d6,4,4,Affinia Shelburne
+65ac46927672c3f8efe4660c,4,3,Holiday Inn Express New York City Times Square
+65ac46927672c3f8efe4671b,3,4,Affinia 50
+65ac46927672c3f8efe469e7,4,3,Holiday Inn Express New York City Times Square
+65ac46927672c3f8efe46a43,4,4,The New Yorker Hotel
+65ac46927672c3f8efe46d2f,5,4,Affinia 50
+65ac46927672c3f8efe47143,5,4,Affinia 50
+65ac46927672c3f8efe471f2,5,3.5,Affinia Manhattan
+65ac46927672c3f8efe47364,4,4,The New Yorker Hotel
+65ac46927672c3f8efe473b9,3,3,Holiday Inn Express New York City Times Square
+65ac46927672c3f8efe474a1,4,4,Hotel Mela
+65ac46927672c3f8efe4791d,4,3.5,Affinia Manhattan
+65ac46927672c3f8efe47926,5,4,Hotel Mela
+65ac46927672c3f8efe47da7,4,4,InterContinental New York Barclay
+65ac46927672c3f8efe48000,5,4.5,Sofitel New York
+65ac46937672c3f8efe48123,5,3.5,Courtyard by Marriott New York Manhattan / Times Square South
+65ac46937672c3f8efe484c1,5,3.5,The Belvedere
+65ac46937672c3f8efe4873b,4,4,"Hotel Indigo New York City, Chelsea"
+65ac46937672c3f8efe49180,4,4,The Westin New York at Times Square
+65ac46937672c3f8efe4989d,4,4,Hotel Mela
+65ac46937672c3f8efe49ab5,4,3,Ace Hotel NYC
+65ac46937672c3f8efe49bd5,5,3,Ace Hotel NYC
+65ac46937672c3f8efe49c3f,1,3,Wingate by Wyndham Manhattan Midtown
+65ac46937672c3f8efe49c6a,5,5,AKA Sutton Place
+65ac46937672c3f8efe49db4,4,3,BEST WESTERN Bowery Hanbee Hotel
+65ac46937672c3f8efe4a147,5,4,Night Hotel
+65ac46937672c3f8efe4a4fc,4,3,Wingate by Wyndham Manhattan Midtown
+65ac46937672c3f8efe4a598,5,3,Wingate by Wyndham Manhattan Midtown
+65ac46947672c3f8efe4a7fa,3,4,The Westin New York at Times Square
+65ac46947672c3f8efe4aa6b,4,3,Ace Hotel NYC
+65ac46947672c3f8efe4b37e,5,4,70 park avenue hotel - a Kimpton Hotel
+65ac46947672c3f8efe4b566,5,4,The Westin New York at Times Square
+65ac46947672c3f8efe4bcb1,4,4,New York Marriott Marquis
+65ac46947672c3f8efe4c389,4,3.5,Affinia Manhattan
+65ac46947672c3f8efe4c597,5,3,Hampton Inn Manhattan-SoHo
+65ac46947672c3f8efe4c5ea,3,4,Crowne Plaza Times Square Manhattan
+65ac46947672c3f8efe4c758,4,3,Salisbury Hotel
+65ac46957672c3f8efe4cb55,3,4,Hyatt 48 Lex
+65ac46957672c3f8efe4cb7d,5,4,Hyatt 48 Lex
+65ac46957672c3f8efe4cc6e,5,4.5,W New York - Times Square
+65ac46957672c3f8efe4d69e,4,5,Gramercy Park Hotel
+65ac46957672c3f8efe4d774,5,,Smyth Hotel - A Thompson Hotel
+65ac46957672c3f8efe4d956,3,4.5,Royalton New York
+65ac46957672c3f8efe4dd9e,4,3,Hotel Metro
+65ac46957672c3f8efe4dfbe,4,5,"Mandarin Oriental, New York"
+65ac46957672c3f8efe4e123,4,5,The Peninsula New York
+65ac46957672c3f8efe4e26e,3,5,"Mandarin Oriental, New York"
+65ac46957672c3f8efe4e2ef,4,5,Ritz-Carlton Battery Park
+65ac46957672c3f8efe4e46e,2,4,The Westin New York at Times Square
+65ac46957672c3f8efe4e6b4,5,4,The Westin New York at Times Square
+65ac46957672c3f8efe4e902,5,3,Hotel Metro
+65ac46967672c3f8efe4f44a,4,4,New York Marriott Marquis
+65ac46967672c3f8efe4f6b6,4,4.5,Royalton New York
+65ac46967672c3f8efe4fb83,4,4,Crowne Plaza Times Square Manhattan
+65ac46967672c3f8efe4fec4,4,3,Hampton Inn Manhattan Chelsea
+65ac46967672c3f8efe50189,3,4.5,W New York - Times Square
+65ac46967672c3f8efe507a9,5,3.5,Staybridge Suites Times Square - New York City
+65ac46967672c3f8efe5110c,2,4.5,W New York - Times Square
+65ac46967672c3f8efe511e0,5,3.5,YOTEL New York at Times Square West
+65ac46977672c3f8efe516a5,4,4,Affinia Dumont
+65ac46977672c3f8efe51750,3,4,Hotel Chandler
+65ac46977672c3f8efe51928,4,4,Affinia Dumont
+65ac46977672c3f8efe51c36,5,4.5,W New York - Times Square
+65ac46977672c3f8efe51cda,5,5,The St. Regis New York
+65ac46977672c3f8efe51ec0,2,4.5,W New York - Times Square
+65ac46977672c3f8efe5201b,4,3.5,Hilton Garden Inn Times Square
+65ac46977672c3f8efe52063,4,4,The Muse Hotel New York
+65ac46977672c3f8efe5208c,4,4.5,W New York - Times Square
+65ac46977672c3f8efe520dd,4,4,New York Marriott Marquis
+65ac46977672c3f8efe520f2,1,4,The Michelangelo Hotel
+65ac46977672c3f8efe520f8,4,4,New York Marriott Marquis
+65ac46977672c3f8efe52175,4,4,New York Marriott Marquis
+65ac46977672c3f8efe5217b,2,4,The Michelangelo Hotel
+65ac46977672c3f8efe5247f,2,4,The Muse Hotel New York
+65ac46977672c3f8efe52507,5,5,The St. Regis New York
+65ac46977672c3f8efe5254f,5,4.5,The New York Palace Hotel
+65ac46977672c3f8efe52c8b,5,5,The St. Regis New York
+65ac46977672c3f8efe52cd7,5,4.5,The New York Palace Hotel
+65ac46977672c3f8efe52d5c,5,4,The Michelangelo Hotel
+65ac46977672c3f8efe52db6,4,3.5,Staybridge Suites Times Square - New York City
+65ac46977672c3f8efe52e43,5,3.5,Staybridge Suites Times Square - New York City
+65ac46977672c3f8efe52fd5,4,4.5,Omni Berkshire Place
+65ac46977672c3f8efe53480,4,4,Affinia Dumont
+65ac46977672c3f8efe53724,4,3,The Maritime Hotel
+65ac46977672c3f8efe53ab6,4,3.5,Staybridge Suites Times Square - New York City
+65ac46987672c3f8efe53da0,1,4,New York Marriott Marquis
+65ac46987672c3f8efe54328,5,4,New York Marriott Marquis
+65ac46987672c3f8efe54933,5,3.5,Staybridge Suites Times Square - New York City
+65ac46987672c3f8efe554b1,4,4.5,Omni Berkshire Place
+65ac46987672c3f8efe55884,2,3.5,YOTEL New York at Times Square West
+65ac46987672c3f8efe55c22,3,3.5,Hilton Garden Inn Times Square
+65ac46987672c3f8efe55df2,5,4.5,The New York Palace Hotel
+65ac46997672c3f8efe5639b,5,4,The Jewel Facing Rockefeller Center
+65ac46997672c3f8efe5649d,5,4,Hilton Times Square
+65ac46997672c3f8efe56570,4,3.5,YOTEL New York at Times Square West
+65ac46997672c3f8efe565f6,5,4,Morgans Hotel
+65ac46997672c3f8efe5676b,4,3.5,YOTEL New York at Times Square West
+65ac46997672c3f8efe56834,4,4,Hilton Times Square
+65ac46997672c3f8efe56c77,5,4,The Jewel Facing Rockefeller Center
+65ac46997672c3f8efe56fab,4,3,The Hampton Inn Times Square North
+65ac46997672c3f8efe57270,5,5,Trump International Hotel and Tower
+65ac46997672c3f8efe57489,4,4,Hilton Times Square
+65ac46997672c3f8efe574e8,3,3,Hilton Garden Inn New York West 35th
+65ac46997672c3f8efe575e4,4,4,Hilton Times Square
+65ac46997672c3f8efe57657,5,4.5,The New York Palace Hotel
+65ac46997672c3f8efe578ea,5,5,The London NYC
+65ac46997672c3f8efe57a7a,3,3,BEST WESTERN PLUS Hospitality House
+65ac46997672c3f8efe57d4f,4,3,The Hampton Inn Times Square North
+65ac469a7672c3f8efe58086,3,5,The Surrey
+65ac469a7672c3f8efe586a2,4,4,Doubletree Guest Suites Times Square
+65ac469a7672c3f8efe58a42,5,5,The London NYC
+65ac469a7672c3f8efe58b12,2,4,Sanctuary Hotel New York
+65ac469a7672c3f8efe59318,5,5,The London NYC
+65ac469a7672c3f8efe593d0,3,4,Hilton Times Square
+65ac469c7672c3f8efe5d4f0,5,5,The London NYC
+65ac469c7672c3f8efe5db3e,5,4,Doubletree Guest Suites Times Square
+65ac469c7672c3f8efe5dfc4,5,4,Doubletree Guest Suites Times Square
+65ac469d7672c3f8efe5f20f,5,4,Doubletree Guest Suites Times Square
+65ac469d7672c3f8efe5fddb,4,4,Casablanca Hotel Times Square
+65ac469f7672c3f8efe6509a,5,3,Hilton Garden Inn New York West 35th
+65ac46a77672c3f8efe77d87,5,4,The Bryant Park Hotel
+65ac46a77672c3f8efe77fdf,4,5,Trump SoHo New York
+65ac46a77672c3f8efe78153,5,,The French Quarters Guest Apartments
+65ac46a77672c3f8efe78749,5,4,The Pearl Hotel
+65ac46a87672c3f8efe78e11,5,4,Andaz Wall Street
+65ac46a87672c3f8efe791b0,5,3.5,The Nolitan Hotel
+65ac46a87672c3f8efe79471,5,3.5,The Nolitan Hotel
+65ac46a87672c3f8efe794b8,4,3.5,The Nolitan Hotel
+65ac46a87672c3f8efe79ad9,5,4,Andaz Wall Street
+65ac46a87672c3f8efe7a990,5,4,Andaz Wall Street
+65ac46a97672c3f8efe7b102,5,3.5,Distrikt Hotel
+65ac46a97672c3f8efe7c544,5,5,Trump SoHo New York
+65ac46a97672c3f8efe7c66e,5,3.5,Distrikt Hotel
+65ac46aa7672c3f8efe7d5d6,5,3.5,Distrikt Hotel
+65ac46ab7672c3f8efe7fd79,4,4,Library Hotel
+65ac46ab7672c3f8efe7fe39,4,4,Library Hotel
+65ac46b37672c3f8efe933cc,4,4,Library Hotel
+65ac46b47672c3f8efe93bc1,5,4,Hotel Elysee
+65ac46b47672c3f8efe94fb8,5,4,Library Hotel
+65ac46b47672c3f8efe95212,5,,Chelsea Pines Inn
+65ac46b57672c3f8efe95c68,4,4,Library Hotel
+65ac46b57672c3f8efe977be,4,4,Library Hotel
+65ac46b77672c3f8efe9b62c,5,4,Hotel Giraffe
